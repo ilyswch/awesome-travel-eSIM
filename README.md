@@ -85,6 +85,9 @@ Countries where seeek is available: https://seeek.co/coverage
 |Revolut|100 MB|7 days|-
 |RoamFlux|2 GB|2 days|FREEGB
 |TextreSIM|100 MB|7 days|-
+|Kolet|1 GB|30 days|-
+|Yesim|1 GB|30 days|SPRING24
+|Roamless|500 MB|♾️|-
 |Red Bull Mobile|100 MB|7 days|-
 
 ## How to install an eSIM
