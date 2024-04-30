@@ -137,5 +137,6 @@ Countries where seeek is available: https://seeek.co/coverage
 <img src="https://raw.githubusercontent.com/ilyswch/awesome-travel-eSIM/main/img/setupman/7.png" alt="drawing" width="200"/>
 8. Enable Data Roaming
 <img src="https://raw.githubusercontent.com/ilyswch/awesome-travel-eSIM/main/img/setupman/8.png" alt="drawing" width="200"/>
+
 ## License
-![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)
+![](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)
