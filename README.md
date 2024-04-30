@@ -10,22 +10,22 @@ If you are on vacation in a country that is not covered by your local provider, 
 To show how much money you can save with a travel esim, here is an example:
 
 ## Contents
-- [eSIM vs local carrier SIM]()
-- [How much data do I need?]()
-- [Choose a eSIM Provider]()
-	- [Normal User (1-5 GB)]()
-	- [Data Burner (5+ GB)]()
-	- [Unlimited Data]()
-	- [Global Data]()
-	- [Phone Number]()
-- [Free eSIMs]()
-    - [Firsty App]()
-    - [seeek]()
-    - [Free eSIM Trials]()
-- [How to install an eSIM]()
-	- [Install via App]()
-	- [Install via QR-Code]()
-	- [Install manually]()
+- [eSIM vs local carrier SIM](#esim-vs-local-carrier-sim)
+- [How much data do I need?](#how-much-data-do-i-need)
+- [Choose a eSIM Provider](#choose-a-esim-provider)
+	- [Normal User (1-5 GB)](#normal-user-1-5-gb)
+	- [Data Burner (5+ GB)](#data-burner-5-gb)
+	- [Unlimited Data](#unlimited-data)
+	- [Global Data](#global-data)
+	- [Phone Number](#phone-number)
+- [Free eSIMs](#free-esims)
+    - [Firsty App](#firsty-app)
+    - [seeek](#seeek)
+    - [Free eSIM Trials](#free-esim-trials)
+- [How to install an eSIM](#how-to-install-an-esim)
+	- [Install via App](#install-via-app)
+	- [Install via QR-Code](#install-via-qr-code)
+	- [Install manually](#install-manually)
 
 ## eSIM vs local carrier SIM
 
@@ -119,6 +119,7 @@ Countries where seeek is available: https://seeek.co/coverage
 <img src="https://raw.githubusercontent.com/ilyswch/awesome-travel-eSIM/main/img/setupqr/6.png" alt="drawing" width="200"/>
 7. Enable Data Roaming
 <img src="https://raw.githubusercontent.com/ilyswch/awesome-travel-eSIM/main/img/setupqr/7.png" alt="drawing" width="200"/>
+
 ### Install manually
 1. Click on "Mobile Service"
 <img src="https://raw.githubusercontent.com/ilyswch/awesome-travel-eSIM/main/img/setupman/1.png" alt="drawing" width="200"/>
@@ -137,4 +138,4 @@ Countries where seeek is available: https://seeek.co/coverage
 8. Enable Data Roaming
 <img src="https://raw.githubusercontent.com/ilyswch/awesome-travel-eSIM/main/img/setupman/8.png" alt="drawing" width="200"/>
 ## License
-[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
+![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)
