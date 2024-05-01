@@ -35,12 +35,15 @@ The closer the number is to 0, the better the signal
 I had a worse signal with my local SIM from "Telekom.de"(Germany) than with the eSIM from Firsty.
 
 Here is a chart of which value is good and which is bad:
-<img src="https://raw.githubusercontent.com/ilyswch/awesome-travel-eSIM/main/img/signal/chart.png" alt="drawing" width="350"/>
+
+<img src="https://raw.githubusercontent.com/ilyswch/awesome-travel-eSIM/main/img/signal/chart.png" alt="drawing" width="300"/>
 
 My local SIM:
+
 <img src="https://raw.githubusercontent.com/ilyswch/awesome-travel-eSIM/main/img/signal/local.png" alt="drawing" width="350"/>
 
 My travel eSIM:
+
 <img src="https://raw.githubusercontent.com/ilyswch/awesome-travel-eSIM/main/img/signal/esim.png" alt="drawing" width="350"/>
 
 ## How much data do I need?
