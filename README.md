@@ -1,4 +1,5 @@
 
+
 # Awesome Travel eSIM
 
 > A guide on travel esims for your next trip!
@@ -28,10 +29,23 @@ To show how much money you can save with a travel esim, here is an example:
 	- [Install manually](#install-manually)
 
 ## eSIM vs local carrier SIM
+### Price 
+### Signal
+The closer the number is to 0, the better the signal
+I had a worse signal with my local SIM from "Telekom.de"(Germany) than with the eSIM from Firsty.
+
+Here is a chart of which value is good and which is bad:
+<img src="https://raw.githubusercontent.com/ilyswch/awesome-travel-eSIM/main/img/signal/chart.png" alt="drawing" width="350"/>
+
+My local SIM:
+<img src="https://raw.githubusercontent.com/ilyswch/awesome-travel-eSIM/main/img/signal/local.png" alt="drawing" width="350"/>
+
+My travel eSIM:
+<img src="https://raw.githubusercontent.com/ilyswch/awesome-travel-eSIM/main/img/signal/esim.png" alt="drawing" width="350"/>
 
 ## How much data do I need?
 To find out how much data you need you can use my Data Usage Calculator. Just enter how long your trip is and how long you are likely to use different apps per day
-[-> To the data usage calculator <-](https://www)
+[-> To the data usage calculator <-](https://ilyswch.github.io/data-usage-calculator/)
 ## Choose a eSIM Provider
 I recommend you look for an esim on [eSIMDB](https://esimdb.com/). There you will find the cheapest provider and discount codes. 
 
