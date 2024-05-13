@@ -1,5 +1,3 @@
-
-
 # Awesome Travel eSIM
 
 > A guide on travel esims for your next trip!
@@ -47,8 +45,8 @@ My travel eSIM:
 <img src="https://raw.githubusercontent.com/ilyswch/awesome-travel-eSIM/main/img/signal/esim.png" alt="drawing" width="350"/>
 
 ## How much data do I need?
-To find out how much data you need you can use my Data Usage Calculator. Just enter how long your trip is and how long you are likely to use different apps per day
-[-> To the data usage calculator <-](https://ilyswch.github.io/data-usage-calculator/)
+To find out how much data you need you can a Data Usage Calculator. 
+[-> To the data usage calculator <-](https://www.omnicalculator.com/everyday-life/data-usage)
 ## Choose a eSIM Provider
 I recommend you look for an esim on [eSIMDB](https://esimdb.com/). There you will find the cheapest provider and discount codes. 
 
