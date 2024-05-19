@@ -1,6 +1,10 @@
-# Awesome Travel eSIM
+
+# <img src="https://raw.githubusercontent.com/ilyswch/awesome-travel-eSIM/main/img/icon.png" width="35"/> Awesome Travel eSIM
 
 > A guide on travel esims for your next trip!
+
+## What is an eSIM?
+eSIMs are embedded-SIM cards which means that they can be easily purchased and activated over the internet and do not require, unlike traditional sim cards, a phsysical card to be inserted into your phone.
 
 ## Why should I use an eSIM?
 If you are on vacation in a country that is not covered by your local provider, it may be worth buying an esim instead of paying high roaming fees or paying for an expensive abroad plan.
@@ -10,6 +14,7 @@ To show how much money you can save with a travel esim, here is an example:
 
 ## Contents
 - [eSIM vs local carrier SIM](#esim-vs-local-carrier-sim)
+- [Is my phone eSIM-compatible?](#is-my-phone-esim-compatible)
 - [How much data do I need?](#how-much-data-do-i-need)
 - [Choose a eSIM Provider](#choose-a-esim-provider)
 	- [Normal User (1-5 GB)](#normal-user-1-5-gb)
@@ -28,6 +33,10 @@ To show how much money you can save with a travel esim, here is an example:
 
 ## eSIM vs local carrier SIM
 ### Price 
+If you fly from the UK to Turkey and go on vacation there, you can buy a plan with 4 GB for 15 days from Vodafone UK for around 29.20€. At Airalio you can get a plan for 26€ which is even valid for 30 days and contains 20GB.
+
+<img src="https://raw.githubusercontent.com/ilyswch/awesome-travel-eSIM/main/img/price/local.png" alt="drawing" width="500"/> . <img src="https://raw.githubusercontent.com/ilyswch/awesome-travel-eSIM/main/img/price/esim.png" alt="drawing" width="256"/>
+
 ### Signal
 The closer the number is to 0, the better the signal
 I had a worse signal with my local SIM from "Telekom.de"(Germany) than with the eSIM from Firsty.
@@ -44,6 +53,54 @@ My travel eSIM:
 
 <img src="https://raw.githubusercontent.com/ilyswch/awesome-travel-eSIM/main/img/signal/esim.png" alt="drawing" width="350"/>
 
+## Is my phone eSIM-compatible?
+### Apple iPhones
+iPhone 15 and iPhone 15 Plus
+iPhone 14, iPhone 14 Plus, iPhone 14 Pro,  iPhone 14 Pro Max, IPhone 15 and IPhone 15 Pro  
+iPhone 13, iPhone 13 Pro, iPhone 13 mini, iPhone 13 Pro Max
+iPhone 12, iPhone 12 mini, iPhone 12 Pro and iPhone 12 Pro Max 
+iPhone SE (2020)
+iPhone 11, iPhone 11 Pro and iPhone 11 Pro Max
+iPhone XR
+iPhone XS and iPhone XS Max
+
+### Google Pixel
+Google Pixel 7 and Pixel 7 Pro
+Google Pixel 6a
+Google Pixel 6 and Pixel 6 Pro
+Google Pixel 5
+Google Pixel 4 and Pixel 4 XL
+Google Pixel 3a and Pixel 3a XL
+Google Pixel 3 and Pixel 3 XL
+
+### Samsung Galaxy
+Samsung Galaxy S24, Galaxy S24+ and Galaxy S24 Ultra
+Samsung Galaxy S23 5G
+Samsung Galaxy S22 5G, Galaxy S22 Ultra and Galaxy S22+
+Samsung Galacy S21 5G, Galaxy S21 Ultra 5G and Galaxy S21+ 5G
+Samsung Galaxy S20 and Galaxy S20 5G
+Samsung Galaxy Note 20 5G and Galaxy Note 20 Ultra 5G
+Samsung Galaxy A55 5G
+Samsung Galaxy A54 5G
+Samsung Galaxy A35 5G
+Samsung Galaxy Note 20 5G and Galaxy Note 20 Ultra 5G
+Samsung Galaxy Z Flip, Galaxy Z Flip 3 5G, Galaxy Z Flip 4 5G and Galaxy Z Flip5
+Samsung Galaxy Z Fold 2 5G, Galaxy Z Fold 3 5G, Galaxy Z Fold 4 and Galaxy Z Fold5
+### other
+Fairphone 4
+HONOR Magic4 Pro 5G
+HONOR Magic5 Pro
+OPPO Find X3 Pro
+OPPO Find X5 Pro
+OPPO Find X5
+OPPO Find N2 Flip 5G
+Huawei P40
+Huawei P40 Pro
+Huawei Mate40 Pro
+Motorola Moto G8
+Sony Xperia 10 IV
+Xiaomi Mi 12T Pro
+Nokia G60 5G
 ## How much data do I need?
 To find out how much data you need you can a Data Usage Calculator. 
 [-> To the data usage calculator <-](https://www.omnicalculator.com/everyday-life/data-usage)
