@@ -1,4 +1,3 @@
-
 # <img src="https://raw.githubusercontent.com/ilyswch/awesome-travel-eSIM/main/img/icon.png" width="35"/> Awesome Travel eSIM
 
 > A guide on travel esims for your next trip!
@@ -152,11 +151,14 @@ Countries where seeek is available: https://seeek.co/coverage
 |-|--|-|-|
 |GigSky|100 MB|7 days|-
 |BreatheSIM|1 GB|3 days|-
+|AirhubApp|100 MB|♾️|-
 |GoMoWorld|50 MB|4 hours|-
 |eskimo.travel|1 GB|2 years|4TRVL
 |Revolut|100 MB|7 days|-
 |RoamFlux|2 GB|2 days|FREEGB
+|Truphone|100 MB|7 days|-
 |TextreSIM|100 MB|7 days|-
+|DENT|200 MB|365 days|[brave](https://campaign.dentwireless.com/brave/)
 |Kolet|1 GB|30 days|-
 |Yesim|1 GB|30 days|SPRING24
 |Roamless|500 MB|♾️|-
