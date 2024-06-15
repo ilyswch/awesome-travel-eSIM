@@ -155,10 +155,9 @@ Countries where seeek is available: https://seeek.co/coverage
 |GoMoWorld|50 MB|4 hours|-
 |eskimo.travel|1 GB|2 years|4TRVL
 |Revolut|100 MB|7 days|-
-|RoamFlux|2 GB|2 days|FREEGB
 |Truphone|100 MB|7 days|-
 |TextreSIM|100 MB|7 days|-
-|DENT|200 MB|365 days|[brave](https://campaign.dentwireless.com/brave/)
+|DENT|200 MB|365 days|[🔗](https://campaign.dentwireless.com/brave/)
 |Kolet|1 GB|30 days|-
 |Yesim|1 GB|30 days|SPRING24
 |Roamless|500 MB|♾️|-
