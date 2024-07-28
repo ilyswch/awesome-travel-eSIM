@@ -150,18 +150,13 @@ Countries where seeek is available: https://seeek.co/coverage
 ||data|validity|promo|
 |-|--|-|-|
 |GigSky|100 MB|7 days|-
-|BreatheSIM|1 GB|3 days|-
 |AirhubApp|100 MB|♾️|-
 |GoMoWorld|50 MB|4 hours|-
 |eskimo.travel|1 GB|2 years|4TRVL
 |Revolut|100 MB|7 days|-
 |Truphone|100 MB|7 days|-
-|TextreSIM|100 MB|7 days|-
-|DENT|200 MB|365 days|[🔗](https://campaign.dentwireless.com/brave/)
 |Kolet|1 GB|30 days|-
-|Yesim|1 GB|30 days|SPRING24
-|Roamless|500 MB|♾️|-
-|Red Bull Mobile|100 MB|7 days|-
+|Red Bull Mobile|1 GB|7 days|TRAVELDEALZ
 
 ## How to install an eSIM
 ### Install via App
